@@ -11,3 +11,8 @@ Tambem vimos como a ferramente do Azure é bem versatil e modular, permitindo um
 CONCEITOS DE NUVEM:
 Vimos que a nuvem possibilita 07 (sete) Beneficios Principais: Escalabilidade, Elasticidade, Confiabilidade, Previsibilidade, Segurança, Governança e Gerenciabilidade. Este conjunto de beneficios nos mostra como o ambiente em nuvem é extremamente solido e viavel para diversos tipos de aplicação para as empresas. Particularmente, na empresa que trabalho atualmente, possuimos uma Maquina Virtural no Azure, e logo este conhecimnento tem me agregado uma visão mais ampla da ferramenta Azure.
 Possuo uma certa experiencia com o ambiente Azure, porem devo considerar que há muito a aprender ainda.
+
+
+=== Configurando uma instância de Banco de Dados na Azure ===
+Tenho utilizado o conhecimento adiquirido no curso, no ambiente ao qual trabalho, pois possuimos azure, e tenho analisado como foi construido nosso ambiente, e como posso otimiza-lo ou melhorar seus custos com base no que tenho me referenciado no curso.
+Conteudo de grande qualidade!
