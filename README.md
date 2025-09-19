@@ -16,3 +16,8 @@ Possuo uma certa experiencia com o ambiente Azure, porem devo considerar que há
 === Configurando uma instância de Banco de Dados na Azure ===
 Tenho utilizado o conhecimento adiquirido no curso, no ambiente ao qual trabalho, pois possuimos azure, e tenho analisado como foi construido nosso ambiente, e como posso otimiza-lo ou melhorar seus custos com base no que tenho me referenciado no curso.
 Conteudo de grande qualidade!
+
+=== Construindo Arquiteturas no Azure ===
+
+Venho enriqucendo meu conhecimento e aplicando diretamente no meu local de trabalho, afim de gerenciar os serviços que possuimos na plataforma.
+<img width="1907" height="888" alt="image" src="https://github.com/user-attachments/assets/4d65eabe-161f-4ebf-a7fa-55a29926602a" />
