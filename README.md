@@ -21,3 +21,6 @@ Conteudo de grande qualidade!
 
 Venho enriqucendo meu conhecimento e aplicando diretamente no meu local de trabalho, afim de gerenciar os serviços que possuimos na plataforma.
 <img width="1907" height="888" alt="image" src="https://github.com/user-attachments/assets/4d65eabe-161f-4ebf-a7fa-55a29926602a" />
+
+Aprendizagem de gerenciamento e implementação muito bem aproveitados.
+Estou aplicando o que estou aprendendo no ambiente Azure da empresa, e treinando o gerenciamento dos recursos. 
